@@ -96,45 +96,6 @@ This project is a web application developed for businesses operating with appoin
 </p>
 
 
-### Sign-In Page  
-![Sign-In](Screenshots/sign-in.png) ![Sign-In](Screenshots/sign-in1.png) ![Sign-In](Screenshots/sign-in2.png)  
-
-###  
-![Sign-Up](Screenshots/sign-up.png)  
-
-###  
-![Admin Login](Screenshots/admin-log-in.png) ![Admin Login](Screenshots/admin-log-in1.png) ![Admin Login](Screenshots/admin-log-in2.png)  
-
-###  
-![Customer Homepage](Screenshots/APPOINTMENTS.png) ![Customer Homepage](Screenshots/APPOINTMENTS1.png) ![Customer Homepage](Screenshots/APPOINTMENTS2.png) ![Customer Homepage](Screenshots/APPOINTMENTS3.png) ![Customer Homepage](Screenshots/APPOINTMENTS4.png)  
-
-### My Appointments Page  
-![My Appointments](Screenshots/MYAPPTS.png) ![My Appointments](Screenshots/MYAPPTS1.png)  
-
-###  
-![Create Appointment](Screenshots/MAKEAPPT.png)  
-
-###   
-![Working Hours](Screenshots/WORKTIMES.png)  
-
-###   
-![Past Appointments](Screenshots/PASTAPPTS.png)  
-
-###   
-![Update Profile](Screenshots/Profile-update.png)  
-
-###  
-![Admin Dashboard](Screenshots/admin.png) ![Admin Dashboard](Screenshots/admin1.png) ![Admin Dashboard](Screenshots/admin2.png) ![Admin Dashboard](Screenshots/admin3.png) ![Admin Dashboard](Screenshots/admin4.png) ![Admin Dashboard](Screenshots/admin5.png)  
-
-###  
-![Manage Appointments](Screenshots/admin-appts.png) ![Manage Appointments](Screenshots/admin-appts1.png)  
-
-###   
-![View Customers](Screenshots/admin-users.png)  
-
-###  
-![Working Hours Admin](Screenshots/admin-worktimes.png)  
-
 ## Features
 
 ### For Users  
