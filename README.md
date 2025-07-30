@@ -13,43 +13,126 @@ This project is a web application developed for businesses operating with appoin
 
 ## Screenshots
 
+
+
+<h3>Sign-In Page </h3>
+<p>
+  <img src="Screenshots/sign-in.png" width="300" style="margin-right: 10px;" />
+  <img src="Screenshots/sign-in1.png" width="300" style="margin-right: 10px;" />
+  <img src="Screenshots/sign-in2.png" width="300" />
+</p>
+
+<h3>Sign-Up Page </h3>
+<p>
+  <img src="Screenshots/sign-up.png" width="300" />
+</p>
+
+<h3>Admin Login Panel </h3>
+<p>
+  <img src="Screenshots/admin-log-in.png" width="300" style="margin-right: 10px;" />
+  <img src="Screenshots/admin-log-in1.png" width="300" style="margin-right: 10px;" />
+  <img src="Screenshots/admin-log-in2.png" width="300" />
+</p>
+
+<h3>Customer Homepage </h3>
+<p>
+  <img src="Screenshots/APPOINTMENTS.png" width="300" style="margin-right: 10px;" />
+  <img src="Screenshots/APPOINTMENTS1.png" width="300" style="margin-right: 10px;" />
+  <img src="Screenshots/APPOINTMENTS2.png" width="300" style="margin-right: 10px;" />
+  <img src="Screenshots/APPOINTMENTS3.png" width="300" style="margin-right: 10px;" />
+  <img src="Screenshots/APPOINTMENTS4.png" width="300" />
+</p>
+
+<h3>My Appointments Page</h3>
+<p>
+  <img src="Screenshots/MYAPPTS.png" width="300" style="margin-right: 10px;" />
+  <img src="Screenshots/MYAPPTS1.png" width="300" />
+</p>
+
+<h3>Create Appointment Page </h3>
+<p>
+  <img src="Screenshots/MAKEAPPT.png" width="300" />
+</p>
+
+<h3>Working Hours & Holidays Page</h3>
+<p>
+  <img src="Screenshots/WORKTIMES.png" width="300" />
+</p>
+
+<h3>Appointment History Page</h3>
+<p>
+  <img src="Screenshots/PASTAPPTS.png" width="300" />
+</p>
+
+<h3>Update Profile Page</h3>
+<p>
+  <img src="Screenshots/Profile-update.png" width="300" />
+</p>
+
+<h3>Admin Dashboard </h3>
+<p>
+  <img src="Screenshots/admin.png" width="300" style="margin-right: 10px;" />
+  <img src="Screenshots/admin1.png" width="300" style="margin-right: 10px;" />
+  <img src="Screenshots/admin2.png" width="300" style="margin-right: 10px;" />
+  <img src="Screenshots/admin3.png" width="300" style="margin-right: 10px;" />
+  <img src="Screenshots/admin4.png" width="300" style="margin-right: 10px;" />
+  <img src="Screenshots/admin5.png" width="300" />
+</p>
+
+<h3>Manage Appointments (Admin) </h3>
+<p>
+  <img src="Screenshots/admin-appts.png" width="300" style="margin-right: 10px;" />
+  <img src="Screenshots/admin-appts1.png" width="300" />
+</p>
+
+<h3>View Customers (Admin)</h3>
+<p>
+  <img src="Screenshots/admin-users.png" width="300" />
+</p>
+
+<h3>Manage Working Hours & Holidays (Admin) </h3>
+<p>
+  <img src="Screenshots/admin-worktimes.png" width="300" />
+</p>
+
+
 ### Sign-In Page  
 ![Sign-In](Screenshots/sign-in.png) ![Sign-In](Screenshots/sign-in1.png) ![Sign-In](Screenshots/sign-in2.png)  
 
-### Sign-Up Page  
+###  
 ![Sign-Up](Screenshots/sign-up.png)  
 
-### Admin Login Panel  
+###  
 ![Admin Login](Screenshots/admin-log-in.png) ![Admin Login](Screenshots/admin-log-in1.png) ![Admin Login](Screenshots/admin-log-in2.png)  
 
-### Customer Homepage  
+###  
 ![Customer Homepage](Screenshots/APPOINTMENTS.png) ![Customer Homepage](Screenshots/APPOINTMENTS1.png) ![Customer Homepage](Screenshots/APPOINTMENTS2.png) ![Customer Homepage](Screenshots/APPOINTMENTS3.png) ![Customer Homepage](Screenshots/APPOINTMENTS4.png)  
 
 ### My Appointments Page  
 ![My Appointments](Screenshots/MYAPPTS.png) ![My Appointments](Screenshots/MYAPPTS1.png)  
 
-### Create Appointment Page  
+###  
 ![Create Appointment](Screenshots/MAKEAPPT.png)  
 
-### Working Hours & Holidays Page  
+###   
 ![Working Hours](Screenshots/WORKTIMES.png)  
 
-### Appointment History Page  
+###   
 ![Past Appointments](Screenshots/PASTAPPTS.png)  
 
-### Update Profile Page  
+###   
 ![Update Profile](Screenshots/Profile-update.png)  
 
-### Admin Dashboard  
+###  
 ![Admin Dashboard](Screenshots/admin.png) ![Admin Dashboard](Screenshots/admin1.png) ![Admin Dashboard](Screenshots/admin2.png) ![Admin Dashboard](Screenshots/admin3.png) ![Admin Dashboard](Screenshots/admin4.png) ![Admin Dashboard](Screenshots/admin5.png)  
 
-### Manage Appointments (Admin)  
+###  
 ![Manage Appointments](Screenshots/admin-appts.png) ![Manage Appointments](Screenshots/admin-appts1.png)  
 
-### View Customers (Admin)  
+###   
 ![View Customers](Screenshots/admin-users.png)  
 
-### Manage Working Hours & Holidays (Admin)  
+###  
 ![Working Hours Admin](Screenshots/admin-worktimes.png)  
 
 ## Features
